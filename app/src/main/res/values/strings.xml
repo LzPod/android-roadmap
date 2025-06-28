@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Roadmap Android</string>
+    <string name="start">Avvia</string>
+    <string name="app_description">Tutti gli argomenti in un\'app</string>
+    <string name="choose_a_category">Scegli una categoria</string>
+    <string name="edit_text_title">Edit Text</string>
+    <string name="insertKilometers">Inserisci i chilometri</string>
+    <string name="km">Km</string>
+    <string name="inMiles">in miglia:</string>
+    <string name="calculate">Calcola</string>
+    <string name="fragment">Fragment</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="change">Cambia</string>
+    <string name="jumpscare_warning">ATTENZIONE JUMPSCARE</string>
+</resources>
